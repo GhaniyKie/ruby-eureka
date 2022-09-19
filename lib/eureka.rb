@@ -13,7 +13,7 @@ module Eureka
       @side_app_name = nil
       @eureka_url = nil
       # @jar = 'bin/sidecar-1.0.jar'
-      @jar = 'bin/sidecar-service-v2.0.jar'
+      @jar = 'bin/sidecar-service-v2.1.jar'
       @app_port = 3000
       @sidecar_port = 9090
     end
